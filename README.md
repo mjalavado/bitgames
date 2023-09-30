@@ -7,7 +7,8 @@ that is done and the user signs in, they will be sent to the home page where the
 select which games they want to play. I haven't decided on how many games to include in
 the app, but I want to make at least 3 games to choose from. After the user picks a game,
 they would use the mouse or keyboard to play the game. For specific games, high scores and
-previous scores will be kept. 
+previous scores will be kept. Each game will have its own logical code, and some games will
+have an AI opponent.
 
 ## Features
 1. User Login and Authentication
