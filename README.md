@@ -16,3 +16,18 @@ have an AI opponent.
 3. Database for Scores
 4. Logical code for games
 5. Interface window
+
+## Home Page
+The home page will be the first page the user sees when they visit the site. The page contains
+a welcome message to the user telling them what the site is about and what games they can find. 
+At the bottom of the page, games will be recommended for the user to choose.
+
+![HomePage](https://github.com/mjalavado/bitgames/assets/94502716/80fc5ade-3ec7-4d93-b28d-e828342b9ea9)
+
+## Game Page
+This page is a game page that the user specifically selected. If the user clicks the "Games" link on
+the navbar, they will be taken to a page with a list of games to choose and play. The game page contains
+a tutorial teaching the user how to play the game and a score/leaderboard to keep the score of the user and
+other users. The center of the page is the window where the game is played.
+
+![GamePage](https://github.com/mjalavado/bitgames/assets/94502716/d74808dd-bf71-4e10-b8e1-0283d13d3484)
